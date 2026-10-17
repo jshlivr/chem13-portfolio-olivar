@@ -1,1 +1,8 @@
-
+AI tool used: Claude (Anthropic)
+ 
+How it was used:
+- To double-check basic information, such as the condensed structural formulas of the assigned molecules.
+- To review my finished molecule cards for errors in atom count, valence, and connectivity.
+ 
+I constructed the Lewis structures and the Ketcher bond-line structures myself. I compared the AI-assisted information against my own chemical reasoning and the course materials, and I take responsibility for the correctness of every submitted structure, formula, and label.
+ 
