@@ -1,1 +1,1 @@
-
+I completed this work on my own first. After finishing it, I used Claude, an AI assistant developed by Anthropic, to recheck my answers, specifically to verify my identification of parent chains, substituents, and IUPAC names. Claude was used only as a review tool after my work was done. I evaluated its feedback myself and made the final decisions on all corrections. The content, analysis, and conclusions in this submission are my own.
